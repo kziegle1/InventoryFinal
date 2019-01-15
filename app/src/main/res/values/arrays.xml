@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the supplier drop-down Spinner -->
+    <string-array name="array_supplier_options">
+        <item>@string/supplier_scholastic</item>
+        <item>@string/supplier_amazon</item>
+        <item>@string/supplier_barnesandnoble</item>
+    </string-array>
+
+    <!-- These are the options displayed in the supplier phone number drop-down Spinner -->
+    <string-array name="array_supplier_phone_number">
+        <item>@string/amazon_phone_number</item>
+        <item>@string/scholastic_phone_number</item>
+        <item>@string/barnesandnoble_phone_number</item>
+    </string-array>
+
+
+</resources>
